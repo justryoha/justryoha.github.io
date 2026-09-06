@@ -1,8 +1,12 @@
 p {
     font-family: Arial, sans-serif;
-    color: #f80000;
+    color: #00b2f8;
 }
 h1 {
     font-family: 'Times New Roman', serif;
     color: #0000ff;
+}
+.webpertama {
+    font-family: 'Courier New', monospace;
+    color: #00fff2;
 }
